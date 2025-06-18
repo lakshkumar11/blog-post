@@ -1,0 +1,13 @@
+body {
+  background: #f4d04e;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Figtree', Arial, sans-serif;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
